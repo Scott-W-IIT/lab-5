@@ -5,22 +5,23 @@ sup {
   font-size: smaller;
 }
 
-#customers {
+#jupiter {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#customers td, #customers th {
+#jupiter td, #jupiter th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+#jupiter tr:nth-child(even){background-color: #f2f2f2;}
 
-#customers tr:hover {background-color: #ddd;}
+#jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;}
 
-#customers th {
+#jupiter th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
