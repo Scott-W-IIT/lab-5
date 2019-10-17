@@ -7,24 +7,22 @@ sup {
 
 #jupiter {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
   width: 100%;
 }
 
 #jupiter td, #jupiter th {
-  border: 1px solid #ddd;
-  padding: 8px;
+  border: .8em solid red;
+  padding-top: : 2.5em;
+  padding-bottom: 2.5em;
 }
-
-#jupiter tr:nth-child(even){background-color: #f2f2f2;}
 
 #jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
   color: yellow;}
 
 #jupiter th {
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: .6em;
+  padding-bottom: .6em;
   text-align: left;
-  background-color: #4CAF50;
-  color: white;
+  background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
+  color: orange;
 }
