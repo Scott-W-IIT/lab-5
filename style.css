@@ -8,12 +8,14 @@ sup {
 #jupiter {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   width: 100%;
+  max-width: 1000px;
 }
 
 #jupiter td, #jupiter th {
-  border: .8em solid red;
-  padding-top: : 2.5em;
-  padding-bottom: 2.5em;
+  border: .3em solid red;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  text-align: center;
 }
 
 #jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
@@ -22,7 +24,7 @@ sup {
 #jupiter th {
   padding-top: .6em;
   padding-bottom: .6em;
-  text-align: left;
+  text-align: center;
   background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
   color: orange;
 }
