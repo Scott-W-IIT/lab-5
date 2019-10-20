@@ -48,6 +48,9 @@ color: red;}
 #jupiter {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+}
+
+#jupiter tr {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
