@@ -104,3 +104,25 @@ color: red;}
   color: yellow;
   text-shadow: .1em .1em black;
 }
+
+
+
+#uranus {
+  font-family: "comic-sans", Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#uranus tr, #uranus  td, #uranus  th{
+  border: .25em solid red;
+  padding: 2em;
+  text-align: center;
+}
+
+#uranus th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
+#uranus td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
