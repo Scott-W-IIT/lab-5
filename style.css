@@ -116,7 +116,7 @@ color: red;}
     text-shadow: .1em .1em purple;
 }
 
-#uranus tr, #uranus  td, #uranus  th{
+#uranus tr, #uranus td, #uranus th{
   border: .25em solid red;
   padding: 2em;
   text-align: center;
