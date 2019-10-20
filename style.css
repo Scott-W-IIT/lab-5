@@ -68,6 +68,9 @@ color: red;}
 #saturn {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+}
+
+#saturn tr, #saturn td, #saturn th{
   border: .25em solid red;
   padding: 2em;
   text-align: center;
