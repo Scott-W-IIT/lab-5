@@ -9,13 +9,13 @@ sup {
   font-size: smaller;
 }
 
-div.td1{
-	padding-right: 1em;
-	padding-left: 1em;
-	font-weight: 900;
+div.td1 {
+	padding-right: 10em;
+	padding-left: 10em;
+	font-weight: bold;
 }
 
-#jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.5);
+#jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
 }
 
 #jupiter {
@@ -30,8 +30,7 @@ div.td1{
 
 #jupiter td, #jupiter th {
   border: .3em solid red;
-  padding-top: 3em;
-  padding-bottom: 3em;
+  padding: 5em;
   text-align: center;
 }
 
@@ -41,7 +40,10 @@ div.td1{
 #jupiter th {
   padding-top: .6em;
   padding-bottom: .6em;
+  padding-left: 1em;
+  padding-right: 1em;
   text-align: center;
   background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
   color: orange;
+  font-weight: bold;
 }
