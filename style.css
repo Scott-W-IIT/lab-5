@@ -40,7 +40,7 @@ color: red;}
   padding-left: 2em;
   padding-right: 2em;
   text-align: center;
-  background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
+  background-image: url("images/stars_for_stats.jpg");
   color: orange;
   text-shadow: .1em .1em purple;
   font-weight: bold;
@@ -58,11 +58,11 @@ color: red;}
   text-align: center;
 }
 
-#jupiter th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#jupiter th:hover {background-image: url("images/jupiter.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
-#jupiter td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#jupiter td:hover {background-image: url("images/jupiter.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
@@ -79,7 +79,7 @@ color: red;}
   text-align: center;
 }
 
-#saturn th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#saturn th:hover {background-image: url("images/saturn.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
