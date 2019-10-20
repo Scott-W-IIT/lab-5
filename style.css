@@ -84,3 +84,23 @@ color: red;}
   color: yellow;
   text-shadow: .1em .1em black;
 }
+
+#neptune  {
+  font-family: "comic-sans", Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#neptune tr, #neptune  td, #neptune  th{
+  border: .25em solid red;
+  padding: 2em;
+  text-align: center;
+}
+
+#neptune th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
+#neptune td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
