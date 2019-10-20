@@ -43,5 +43,7 @@ sup {
 .td1{
 	margin-left: 1em;
 	margin-right: 1em;
+	padding-right: 1em;
+	padding-left: 1em;
 	font-weight: 900;
 }
