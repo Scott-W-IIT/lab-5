@@ -9,7 +9,7 @@ sup {
   font-size: smaller;
 }
 
-#jupiter tr:nth-child(odd) {background-color: white; opacity: 0.06;
+#jupiter th:nth-child(odd) {background-color:rgba(192,192,192,0.3);
 }
 
 #jupiter {
