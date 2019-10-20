@@ -99,7 +99,7 @@ background-position: 75% 25%;
 
 
 #neptune td:hover {background-image: url("images/neptune.jpg");
-background-position: 75% 25%;
+background-position: 25% 75%;
   color: yellow;
   text-shadow: .1em .1em black;
 }
