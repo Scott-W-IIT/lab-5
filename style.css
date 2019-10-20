@@ -79,11 +79,7 @@ color: red;}
   text-align: center;
 }
 
-#saturn th:hover {background-image: url("images/saturn.jpg");
-  color: yellow;
-  text-shadow: .1em .1em black;
-}
-#saturn td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#saturn td:hover {background-image: url("images/saturn.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
