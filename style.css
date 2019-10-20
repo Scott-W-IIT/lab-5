@@ -21,6 +21,12 @@ div.td1 {
 	font-weight: bold;
 }
 
+#table {
+  border: .25em solid red;
+  padding: 2em;
+  text-align: center;
+}
+
 #jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
 }
 
