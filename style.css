@@ -28,18 +28,26 @@ color: red;}
 #table tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
 }
 
-#jupiter {
-  font-family: "comic-sans", Arial, Helvetica, sans-serif;
-  color: white;
-}
-
-#jupiter td, #jupiter tr, #jupiter th {
+#stats th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
 #stats th {
+  padding-top: .6em;
+  padding-bottom: .6em;
+  padding-left: 2em;
+  padding-right: 2em;
+  text-align: center;
+  background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
+  color: orange;
+  font-weight: bold;
+}
+
+#jupiter {
+  font-family: "comic-sans", Arial, Helvetica, sans-serif;
+  color: white;
   border: .25em solid red;
   padding: 2em;
   text-align: center;
@@ -54,13 +62,19 @@ color: red;}
   text-shadow: .1em .1em black;
 }
 
-#stats th {
-  padding-top: .6em;
-  padding-bottom: .6em;
-  padding-left: 2em;
-  padding-right: 2em;
+#saturn {
+  font-family: "comic-sans", Arial, Helvetica, sans-serif;
+  color: white;
+  border: .25em solid red;
+  padding: 2em;
   text-align: center;
-  background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
-  color: orange;
-  font-weight: bold;
+}
+
+#saturn th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
+#saturn td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
 }
