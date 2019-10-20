@@ -80,6 +80,7 @@ color: red;}
 }
 
 #saturn td:hover {background-image: url("images/saturn.jpg");
+background-position: center;
   color: yellow;
   text-shadow: .1em .1em black;
 }
