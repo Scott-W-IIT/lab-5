@@ -9,11 +9,11 @@ sup {
   font-size: smaller;
 }
 
-#jupiter tr:nth-child(odd) {background-color: white; opacity: 0.1;
+#jupiter tr:nth-child(odd) {background-color: white; opacity: 0.06;
 }
 
 #jupiter {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
   margin-left: auto;
   margin-right: auto;
