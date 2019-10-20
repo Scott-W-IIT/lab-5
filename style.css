@@ -48,6 +48,7 @@ color: red;}
 #jupiter {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+    text-shadow: .1em .1em purple;
 }
 
 #jupiter tr, #jupiter td, #jupiter th {
@@ -68,6 +69,7 @@ color: red;}
 #saturn {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+    text-shadow: .1em .1em purple;
 }
 
 #saturn tr, #saturn td, #saturn th{
@@ -88,6 +90,7 @@ color: red;}
 #neptune  {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+  text-shadow: .1em .1em purple;
 }
 
 #neptune tr, #neptune  td, #neptune  th{
@@ -110,6 +113,7 @@ color: red;}
 #uranus {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
+    text-shadow: .1em .1em purple;
 }
 
 #uranus tr, #uranus  td, #uranus  th{
