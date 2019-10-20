@@ -15,7 +15,7 @@ div.td1{
 	font-weight: 900;
 }
 
-#jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.9);
+#jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.5);
 }
 
 #jupiter {
