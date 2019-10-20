@@ -15,12 +15,6 @@ text-shadow: .1em .1em purple;
 padding: 1em;
 color: red;}
 
-div.td1 {
-	padding-right: 2em;
-	padding-left: 2em;
-	font-weight: bold;
-}
-
 #table {
   border: .25em solid red;
   padding: 2em;
@@ -37,12 +31,6 @@ div.td1 {
 #jupiter {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 2em;
-  border: .25em solid red;
-  padding: 2em;
-  text-align: center;
 }
 
 #jupiter td, #jupiter tr, #jupiter th {
@@ -57,7 +45,11 @@ div.td1 {
   text-align: center;
 }
 
-#jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#jupiter th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+  color: yellow;
+  text-shadow: .1em .1em black;
+}
+#jupiter td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
