@@ -11,7 +11,7 @@ sup {
 
 h1 {font-size: xx-large;
 text-align: center;
-text-shadow: .2em .2em purple;
+text-shadow: .1em .1em purple;
 padding: 1em;
 color: red;}
 
@@ -34,7 +34,7 @@ div.td1 {
   max-width: 1000px;
 }
 
-#jupiter td, {
+#jupiter td, #jupiter tr, {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
@@ -48,7 +48,7 @@ div.td1 {
 
 #jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
   color: yellow;
-  text-shadow: .2em .2em black;
+  text-shadow: .1em .1em black;
 }
 
 #stats th {
