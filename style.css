@@ -9,9 +9,13 @@ sup {
   font-size: smaller;
 }
 
+h1 {font-size: xx-large;
+text-align: center;
+color: red;}
+
 div.td1 {
-	padding-right: 10em;
-	padding-left: 10em;
+	padding-right: 3em;
+	padding-left: 3em;
 	font-weight: bold;
 }
 
@@ -40,8 +44,8 @@ div.td1 {
 #jupiter th {
   padding-top: .6em;
   padding-bottom: .6em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
   text-align: center;
   background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
   color: orange;
