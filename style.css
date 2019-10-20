@@ -97,11 +97,8 @@ background-position: center;
   text-align: center;
 }
 
-#neptune th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
-  color: yellow;
-  text-shadow: .1em .1em black;
-}
-#neptune td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+
+#neptune td:hover {background-image: url("images/neptune.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
@@ -120,11 +117,7 @@ background-position: center;
   text-align: center;
 }
 
-#uranus th:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
-  color: yellow;
-  text-shadow: .1em .1em black;
-}
-#uranus td:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
+#uranus td:hover {background-image: url("images/uranus.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
