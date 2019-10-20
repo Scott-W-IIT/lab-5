@@ -34,16 +34,24 @@ div.td1 {
   max-width: 1000px;
 }
 
-#jupiter td, #jupiter th {
+#jupiter td, {
+  border: .25em solid red;
+  padding: 2em;
+  text-align: center;
+}
+
+#stats th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
 #jupiter tr:hover {background-image: url("https://ichef.bbci.co.uk/news/320/cpsprodpb/850F/production/_106136043_body.jpg");
-  color: yellow;}
+  color: yellow;
+  text-shadow: .2em .2em black;
+}
 
-#jupiter th {
+#stats th {
   padding-top: .6em;
   padding-bottom: .6em;
   padding-left: 2em;
