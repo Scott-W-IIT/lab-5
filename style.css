@@ -45,7 +45,7 @@ div.td1 {
   text-align: center;
 }
 
-#jupiter td, #jupiter tr, {
+#jupiter td, #jupiter tr, #jupiter th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
