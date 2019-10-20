@@ -11,6 +11,7 @@ sup {
 
 h1 {font-size: xx-large;
 text-align: center;
+text-shadow: .2em .2em purple;
 padding: 1em;
 color: red;}
 
