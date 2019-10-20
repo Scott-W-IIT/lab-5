@@ -25,9 +25,11 @@ div.td1 {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
+  width: 85%;
+  max-width: 1000px;
 }
 
-#jupiter tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
+#table tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
 }
 
 #jupiter {
@@ -36,8 +38,9 @@ div.td1 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 2em;
-  width: 85%;
-  max-width: 1000px;
+  border: .25em solid red;
+  padding: 2em;
+  text-align: center;
 }
 
 #jupiter td, #jupiter tr, {
