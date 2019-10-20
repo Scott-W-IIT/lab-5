@@ -42,6 +42,7 @@ color: red;}
   text-align: center;
   background-image: url("https://thenypost.files.wordpress.com/2019/09/somethings-killing-galaxys2.jpg?quality=90&strip=all&w=618&h=410&crop=1");
   color: orange;
+  text-shadow: .1em .1em purple;
   font-weight: bold;
 }
 
