@@ -9,11 +9,13 @@ sup {
   font-size: smaller;
 }
 
-h1 {font-size: xx-large;
-text-align: center;
-text-shadow: .1em .1em purple;
-padding: 1em;
-color: red;}
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  text-shadow: .1em .1em purple;
+  padding: 1em;
+  color: red;
+}
 
 #table {
   border: .25em solid red;
@@ -25,7 +27,8 @@ color: red;}
   max-width: 1000px;
 }
 
-#table tr:nth-child(even) {background-color:rgba(192,192,192,0.3);
+#table tr:nth-child(even) {
+  background-color: rgba(192, 192, 192, 0.3);
 }
 
 #stats th {
@@ -44,25 +47,31 @@ color: red;}
   color: orange;
   text-shadow: .1em .1em purple;
   font-weight: bold;
+  font-size: large;
 }
 
 #jupiter {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
-    text-shadow: .1em .1em purple;
+  text-shadow: .1em .1em purple;
 }
 
-#jupiter tr, #jupiter td, #jupiter th {
+#jupiter tr,
+#jupiter td,
+#jupiter th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
-#jupiter th:hover {background-image: url("images/jupiter.jpg");
+#jupiter th:hover {
+  background-image: url("images/jupiter.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
-#jupiter td:hover {background-image: url("images/jupiter.jpg");
+
+#jupiter td:hover {
+  background-image: url("images/jupiter.jpg");
   color: yellow;
   text-shadow: .1em .1em black;
 }
@@ -70,56 +79,64 @@ color: red;}
 #saturn {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
-    text-shadow: .1em .1em purple;
+  text-shadow: .1em .1em purple;
 }
 
-#saturn tr, #saturn td, #saturn th{
+#saturn tr,
+#saturn td,
+#saturn th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
-#saturn td:hover {background-image: url("images/saturn.jpg");
-background-position: 75% 25%;
+#saturn td:hover {
+  background-image: url("images/saturn.jpg");
+  background-position: 75% 25%;
   color: yellow;
   text-shadow: .1em .1em black;
 }
 
-#neptune  {
+#neptune {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
   text-shadow: .1em .1em purple;
 }
 
-#neptune tr, #neptune  td, #neptune  th{
+#neptune tr,
+#neptune td,
+#neptune th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
-
-#neptune td:hover {background-image: url("images/neptune.jpg");
-background-position: 25% 75%;
+#neptune td:hover {
+  background-image: url("images/neptune.jpg");
+  background-position: 25% 75%;
   color: yellow;
   text-shadow: .1em .1em black;
 }
-
-
 
 #uranus {
   font-family: "comic-sans", Arial, Helvetica, sans-serif;
   color: white;
-    text-shadow: .1em .1em purple;
+  text-shadow: .1em .1em purple;
 }
 
-#uranus tr, #uranus td, #uranus th{
+#uranus tr,
+#uranus td,
+#uranus th {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
 }
 
-#uranus td:hover {background-image: url("images/uranus.jpg");
-background-position: 80% 20%;
+#uranus td:hover {
+  background-image: url("images/uranus.jpg");
+  background-position: 80% 20%;
   color: yellow;
   text-shadow: .1em .1em black;
 }
+
+
