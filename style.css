@@ -36,7 +36,8 @@ h1 {
   padding: 2em;
   text-align: center;
   vertical-align: middle;
-  letter-spacing: .01em;
+  letter-spacing: .02em;
+  line-height: normal;
 }
 
 #stats th {
