@@ -35,6 +35,8 @@ h1 {
   border: .25em solid red;
   padding: 2em;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 #stats th {
