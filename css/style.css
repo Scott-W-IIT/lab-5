@@ -1,7 +1,7 @@
 body {
   margin-left: auto;
   margin-right: auto;
-  background: url(images/M43_beletsky_background.jpg);
+  background: url("images/M43_beletsky_background.jpg");
 }
 
 sup {
@@ -101,7 +101,7 @@ h1 {
 }
 
 #neptune {
-  font-family: "comic-sans", Arial, Helvetica, sans-serif;
+  font-family: "comic-sans", Arial, Helvetica, sans-serif,;
   color: white;
   text-shadow: .1em .1em purple;
 }
