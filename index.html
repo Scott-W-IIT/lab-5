@@ -9,6 +9,20 @@
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
     <title>Lab 5</title>
+    <!-- Insert FingerprintJS script -->
+    <script>
+  function initFingerprintJS() {
+    FingerprintJS.load({token: 'KPxM39bM6FNynRvtYAH7'})
+      .then(fp => fp.get())
+      .then(result => console.log(result.visitorId));
+  }
+</script>
+<script
+  async
+  src="//cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js"
+  onload="initFingerprintJS()"
+></script>
+    <!-- end FPJS -->
   </head>
   <body>
     <header>
